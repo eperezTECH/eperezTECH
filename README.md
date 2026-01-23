@@ -1,7 +1,10 @@
 <h1>Hola, soy Emiliano! <br/><a href="https://github.com/eperezTECH">Técnico de Soporte / Help Desk</a>, <a href="https://www.linkedin.com/in/epereztech/">Futuro Técnico Superior en Redes Informáticas</a></h1>
 
+<h2>👨‍💻 Home Lab VMWARE:</h2>
+ - <b>Instalando Windows Server 2022 y 2 clientes con Windows 11</b>
+  - [Laboratorio de Práctica Configurando 3 VM (Server + 2 Clients). Configuración de conexiones de red, Instalación de AD, Creación de OU's y Usuarios, Instalación Remote Access, Instalación y configuración DHPC Server, DNS Manager, Chequeo de conectividad, GPO's, Password & Account Policies, CMD.]📺([https://youtu.be/gACH8_W5Rig](https://youtu.be/9O2DwnLkE2A))
 
-<h2>👨‍💻 Home Lab:</h2>
+<h2>👨‍💻 Home Lab VIRTUAL BOX:</h2>
 
 - <b>Instalando Windows Server y Virtual Box</b>
   - [Laboratorio de Práctica instalando el sistema operativo Windows Server 2016 en una máquina virtual usando Virtual Box de Oracle.]📺(https://youtu.be/gACH8_W5Rig)
